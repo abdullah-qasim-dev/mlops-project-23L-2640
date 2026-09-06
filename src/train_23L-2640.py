@@ -39,7 +39,7 @@ X_test = scaler.transform(X_test)
 
 # Train model
 model = RandomForestRegressor(
-    n_estimators=200,
+    n_estimators=300,
     random_state=42
 )
 
