@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# Model artifacts
+model/
+*.pkl
+*.h5
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
